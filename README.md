@@ -1,4 +1,4 @@
-### Hi there 👋
+### kim061222
 
 <!--
 **kim061222/kim061222** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
