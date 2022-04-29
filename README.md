@@ -5,6 +5,7 @@
 - 집에 가고 싶어합니다
 - 항상 졸려합니다
 - 이거 어떻게 꾸미는건지 모릅니다
+- 미래의 제가 꾸며주겠죠?
 
 <!--
 **kim061222/kim061222** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
