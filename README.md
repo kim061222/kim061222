@@ -1,4 +1,9 @@
-### kim061222
+# kim061222
+
+## 이 사람은...
+
+- 집에 가고 싶어합니다
+- 항상 졸려합니다
 
 <!--
 **kim061222/kim061222** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
