@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 
 Hello !   
 
-<img src="https://cdn.pixabay.com/photo/2014/04/03/10/53/waves-311635_1280.png" width="70%" height="200"/>
+<img src="https://cdn.pixabay.com/photo/2014/04/03/10/53/waves-311635_1280.png" width="100%" height="200"/>
 
 _할수 있는 게 놀라울 정도로 없음 !_
 
