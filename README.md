@@ -4,11 +4,6 @@
 
 
 
-
-  <br> 
-  <br>
-  
-
     
     
 <h1>Contact
@@ -26,3 +21,10 @@
 <img src="https://img.shields.io/badge/-html-red?style=for-the-badge&color=red&logoColor=white"> 
 <img src="https://img.shields.io/badge/-css-blue?style=for-the-badge&color=blue&logoColor=white"> 
 <img src="https://img.shields.io/badge/-js-yellow?style=for-the-badge&color=yellow&logoColor=white"> 
+
+
+<br>
+<br>
+<br>
+  
+ * * *
