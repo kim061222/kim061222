@@ -3,6 +3,14 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=95BDFF&height=300&section=header&text=Junior%20Frontend%20Developer&fontSize=60)
 
 
+
+
+  <br> 
+  <br>
+  
+
+    
+    
 <h1>Contact
   <br>
 
