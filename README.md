@@ -1,31 +1,20 @@
+<div align=center>
+
+![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=Junior%20Frontend%20Developer&fontSize=60)
 
 
-<!--
-**kim061222/kim061222** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h1>Contact
+  <br>
 
-Here are some ideas to get you started:
+[![Gmail Badge](https://img.shields.io/badge/-Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:kim061222@gmail.com)](mailto:kim061222@gmail.com)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-<div align = center>
+<h1>Skills
+  <br>
+<img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white">
+<img src="https://img.shields.io/badge/java-007396?style=for-the-badge&color=brown&logoColor=white">
+<img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white"> 
 
-## DGSW   
-*2401 김수인*
-   
-
-Hello !   
-
-<img src="https://cdn.pixabay.com/photo/2014/04/03/10/53/waves-311635_1280.png" width="100%" height="200"/>
-
-_할수 있는 게 놀라울 정도로 없음 !_
-
-<a href="https://github.com/kim061222">
-  <img src="https://cdn-icons-png.flaticon.com/512/38/38401.png" width=30>
-</a>
+   <br>
+<img src="https://img.shields.io/badge/-html-red?style=for-the-badge&color=red&logoColor=white"> 
+<img src="https://img.shields.io/badge/-css-blue?style=for-the-badge&color=blue&logoColor=white"> 
+<img src="https://img.shields.io/badge/-js-yellow?style=for-the-badge&color=yellow&logoColor=white"> 
